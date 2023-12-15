@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/CMakeFiles/ELF2UF2Build
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/CMakeFiles/ELF2UF2Build.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/CMakeFiles/ELF2UF2Build-complete.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

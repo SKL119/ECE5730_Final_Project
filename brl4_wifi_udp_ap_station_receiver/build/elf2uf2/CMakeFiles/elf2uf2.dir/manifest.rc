@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/elf2uf2/CMakeFiles/elf2uf2.dir/embed.manifest"

@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+C:/Cornell/23_FALL/ECE_5730/Labs/Pico/brl4_wifi_udp_ap_station_receiver/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
